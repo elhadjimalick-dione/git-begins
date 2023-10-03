@@ -3,3 +3,5 @@ git add : Pour ajouter des fichiers au suivi Git.
 git commit : Pour créer un commit avec un message explicite.
 git push : Pour pousser les modifications vers le référentiel distant.
 git pull: modifie le contenu du fichier
+git branch "add-create-branch-command" : pour ajouter une branche
+git checkout 'add-create-branch-command'  : pour changer de branch
